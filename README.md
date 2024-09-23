@@ -5,6 +5,6 @@
   </div>
   <div style="flex: 1; text-align: right;">
     <!-- Nhúng GIF -->
-    <img src="link_đến_gif_của_bạn" alt="Mô tả về GIF" style="max-width: 100%;">
+    <img src="(https://github.com/locbbb48/SDLGameDM/blob/master/plane85x38.png)" alt="Mô tả về GIF" style="max-width: 100%;">
   </div>
 </div>
